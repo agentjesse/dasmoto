@@ -1,0 +1,38 @@
+/*select all text*/
+html{
+  font-family: Helvetica;
+}
+
+/*h1 is only title style it here*/
+h1{
+  color: khaki;
+  font-weight: bold;
+  font-size: 100px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+}
+/*all h2 are 2nd titles, style here*/
+h2{
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+/*class selector to mod paragraph text inline with span*/
+.boldblue{
+  font-weight: bold;
+  color: blue;
+}
+
+/*backgrounds for headings*/
+.brushes{
+  background-color: MediumSpringGreen;
+}
+
+.frames{
+  background-color: lightcoral;
+}
+
+.paint{
+  background-color: skyblue;
+}
