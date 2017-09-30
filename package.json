@@ -1,0 +1,23 @@
+{
+  "name": "dasmoto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentjesse/testsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agentjesse/testsite/issues"
+  },
+  "homepage": "https://github.com/agentjesse/testsite#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "webpack": "^3.6.0"
+  }
+}
